@@ -8,11 +8,11 @@ body{
     margin: 0;
 }
 .container{
-    width: 70%;
-    padding: 1em;
+    width: 70%;    
     text-align: left;
     background: rgba(165, 42, 42, 0.199);
     border: 1px solid rgba(165, 42, 42, 0.349);
+    padding: 1em;
     margin: 0 auto;
 }
 .container h1{
